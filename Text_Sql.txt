@@ -1,0 +1,1 @@
+Select * from T_USER_SECURE;
